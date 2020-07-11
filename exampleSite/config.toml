@@ -1,6 +1,6 @@
 baseURL = "https://lujen.netlify.com"
-languageCode = "en-us"
-paginate = "3"
+languageCode = "fi"
+paginate = "6"
 summaryLength = "10"
 theme = "parsa-hugo"
 title = "Lujen"
