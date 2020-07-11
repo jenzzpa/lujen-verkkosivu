@@ -1,17 +1,12 @@
 baseURL = "https://lujen.netlify.com"
 languageCode = "en-us"
-paginate = 6
+paginate = "3"
 summaryLength = "10"
 theme = "parsa-hugo"
 title = "Lujen"
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 3
-[[menu.main]]
-URL = "about"
-name = "About"
-weight = 2
+[menu.main]
+name = "Lifestyle"
+weight = 1
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
